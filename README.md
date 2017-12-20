@@ -11,7 +11,9 @@ Game "Alien Invasion", made by pygame and python3
 ### - 开始游戏
 
 鼠标点击`Play`或者按键盘上的`p`键开始游戏
+
 键盘左右方向键控制飞船左右移动
+
 空格键（SPACE）开火
 
 ### - 退出游戏
